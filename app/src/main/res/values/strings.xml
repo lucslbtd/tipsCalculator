@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">tipscalculator</string>
-    <string name="txt_input">Cost of service:</string>
+    <string name="txt_cost">Cost of service:</string>
     <string name="txt_question">How was the service?</string>
     <string name="radioBtn_amazing">Amazing (20%)</string>
     <string name="radioBtn_good">Good (18%)</string>
     <string name="radioBtn_okay">Okay (15%)</string>
-    <string name="switch_calculate_txt">Round up tip?</string>
+    <string name="switch_round_up_txt">Round up tip?</string>
     <string name="btn_calculate">Calculate</string>
-    <string name="txt_tip">Tip amount</string>
+    <string name="txt_tip">Tip amount: %s</string>
 
 </resources>
